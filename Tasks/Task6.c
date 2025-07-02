@@ -1,7 +1,6 @@
 //Автор: Кожевников Андрей
 //Задание 339а https://ivtipm.github.io/Programming/Glava10/index10.htm#z339
 
-//TODO ПЕРЕЧИТАТЬ УСЛОВИЕ И ИСПРАВИТЬ
 #include <stdio.h>  //< Модуль для ввода/ввывода
 #include <locale.h> //< Модуль для установки локали для корректного отображения кириллицы
 #include <stddef.h>
