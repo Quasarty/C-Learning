@@ -29,4 +29,7 @@ int main(){
     print_list(head);
     float sum = sum_list(head); //< Сумма всех элементов
     printf("Сумма: %.2f", sum);
+
+    free_list(head);
+    return 0;
 }
