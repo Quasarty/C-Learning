@@ -53,6 +53,8 @@ int get_answer(int hour, int minute){
     return answer;
 }
 
+//argc - количество аргументов
+//argv[] - массив строк (каждый аргумент - строка) (argv[0] - полное название(путь) программы)
 int main(int argc, char* argv[]) {
     setlocale(LC_ALL, ".UTF8"); //< Установка локали для корректного отображение кириллицы
 
